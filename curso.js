@@ -53,7 +53,8 @@ let curso = {
 }
 
 
+// Testes
+
 curso.adicionarEstudante(new aluno('José', 6, [4, 6, 8.4, 9, 0]));
 console.log(curso.listaEstudantes);
-
 console.log(curso.aprovacaoEstudantes());
